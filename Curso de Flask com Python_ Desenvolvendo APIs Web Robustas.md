@@ -651,5 +651,5 @@ Lembre-se: a prática constante é fundamental para dominar qualquer tecnologia.
 
 ---
 
-*Curso desenvolvido por Manus AI - 2024*
+
 
